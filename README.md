@@ -12,7 +12,7 @@ sudo apt install python3-venv
 python3 -m venv venv
 source venv/bin/activate
 ```
-Now if it's all done, then instal **Flask** with the following command:
+Now if it's all done, then install **Flask** with the following command:
 ```bash
 pip install Flask
 ```
@@ -29,6 +29,3 @@ flask run
 ```
 
 If you ain't as dumb as me, then you should be able to see the app at `http://127.0.0.1:5000`, or maybe try **postman** as sir wanted you to.
-
-## Assignment Starts:
-### 1. API1: Student/
